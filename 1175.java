@@ -10,6 +10,7 @@ public class Main {
             Scanner leitor = new Scanner(System.in);
             int aux;
             int[] N = new int[20];
+                System.out.println("Digite os valores");
             for (int i=0; i < N.length; i++) {
                 N[i] = leitor.nextInt();
             }
