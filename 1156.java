@@ -15,4 +15,3 @@ public class MyClass {
     }
 	
 }
-© 2020 GitHub, Inc.
