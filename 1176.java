@@ -8,6 +8,7 @@ public class Main {
 
         public static void main(String[] args) throws IOException {
             Scanner leitor = new Scanner(System.in);
+                System.out.println("Digite um valor");
             int T = leitor.nextInt();
             for (int j = 0; j < T; j++) {
                 int N = leitor.nextInt();
